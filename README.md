@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Привет! 👋 Я gratati</h1>
 
-<!--
-**gratati/gratati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Разработчик • Искусственный интеллект • Музыкальные эксперименты
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Что я создаю
+
+- 🤖 **NLP-боты**: Telegram-боты с анализом текста, фактчекингом и переводом
+- 🧠 **Машинное обучение**: BERT, трансформеры, кластеризация, Streamlit
+- 📱 **Мобильные приложения**: Flutter, TensorFlow Lite, детекция объектов
+- 🖼️ **Компьютерное зрение**: сегментация с SAM и U-Net
+- 🎵 **AI-музыка**: генерация треков через Producer.ai, амбиент, трип-хоп, рок
+
+---
+
+### 🚀 Мои проекты
+
+| Проект | Описание | Ссылка |
+|-------|----------|--------|
+| 🤖 [TextEaseBot](https://t.me/TextEaseBot) | Telegram-бот для упрощения и анализа текстов | [GitHub](https://github.com/gratati/TextEaseBot) |
+| 📊 [cv-segmentation-sam-unet](https://github.com/gratati/cv-segmentation-sam-unet) | CV-сегментация спортивных площадок | [Демо](https://cv-segmentation.onrender.com) |
+| 🧠 [sentiment-analyzer](https://github.com/gratati/sentiment-analyzer) | Анализ тональности текста на BERT | [PDF-демо](/docs/analiz_tonalnosti.pdf) |
+| 📱 [realtime_object](https://github.com/gratati/realtime_object) | Детекция объектов на Android | [PDF-демо](/docs/object-detection.pdf) |
+
+---
+
+### 🎵 Музыкальные эксперименты
+
+Я создаю музыку с помощью AI, исследуя границы звука:
+
+- 🌀 **Mystica** — ритуальный амбиент с ASMR и ханг-барабанами
+- 🌊 **Mysterious Tide** — трип-хоп с гавайской стальной гитарой
+- 🚀 **Flight of Life** — психоделический рок о смелости
+- 👑 **Dance Queen** — энергичный урбан-гимн о вечной молодости
+
+🎧 Все треки: [Producer.ai](https://producer.ai/@gratati)
+
+---
+
+### 📬 Связь
+
+Хочешь обсудить проект или музыку? Пиши:
+
+- 📩 [Telegram](https://t.me/mentvork)
+- ✉️ gratati49@gmail.com
+- 🌐 [Мой сайт](https://gratati.github.io)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=6366F1&center=true&vCenter=true&width=500&lines=Разработка+%7C+AI+%7C+Музыка;Python+%7C+Flutter+%7C+Producer.ai" alt="typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gratati&show_icons=true&theme=radical&layout=compact" alt="gratati stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratati&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+[![gratati's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=gratati&theme=react)](https://github.com/gratati)
+
