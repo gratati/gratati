@@ -22,7 +22,7 @@
 |-------|----------|------|
 | **TextEaseBot** | Telegram-бот для упрощения текстов | [GitHub](https://github.com/gratati/TextEaseBot) / [PDF](https://gratati.github.io/docs/texteasebot.pdf) |
 | **cv-segmentation-sam-unet** | CV-сегментация с SAM и U-Net | [GitHub](https://github.com/gratati/cv-segmentation-sam-unet) / [PDF](https://gratati.github.io/docs/cv_segmentation_sam_unet.pdf) |
-| **sentiment-analyzer** | Анализ тональности на BERT | [GitHub](https://github.com/gratati/sentiment-analyzer) / [PDF](https://gratati.github.io/docs/analiz_tonalnosti.pdf) |
+| **sentiment-analyzer** | Анализ тональности на BERT | [GitHub](https://github.com/gratati/sentiment-analyzer) / [PDF](https://gratati.github.io/docs/анализ тональности.pdf) |
 | **realtime_object** | Детекция объектов на Android | [GitHub](https://github.com/gratati/realtime_object) / [PDF](https://gratati.github.io/docs/object-detection.pdf) |
 
 ---
