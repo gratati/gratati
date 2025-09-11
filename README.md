@@ -51,8 +51,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=6366F1&center=true&vCenter=true&width=500&lines=Разработка+%7C+AI+%7C+Музыка;Python+%7C+Android Studio+%7C+Producer.ai" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=F59E0B&center=true&vCenter=true&width=600&lines=🎧+Музыка+в+коде+%7C+Нейросети+в+ритме;💻+Python+%7C+AI+%7C+Android+Studio;🌼+Digital+Art+%7C+Producer.ai+%7C+gratati" alt="typing animation" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gratati&show_icons=true&theme=radical&layout=compact" alt="gratati stats" />
