@@ -10,7 +10,7 @@
 
 - 🤖 **NLP-боты**: Telegram-боты различного функционала для бизнеса с использованиемм нейросетей
 - 🧠 **Машинное обучение**: BERT, трансформеры, кластеризация, Streamlit
-- 📱 **Мобильные приложения**: Flutter, TensorFlow Lite, детекция объектов
+- 📱 **Мобильные приложения**: Android Studio, TensorFlow Lite, детекция объектов
 - 🖼️ **Компьютерное зрение**: сегментация с SAM и U-Net
 - 🎵 **AI-музыка**: генерация треков через Producer.ai, амбиент, трип-хоп, рок
 
@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=6366F1&center=true&vCenter=true&width=500&lines=Разработка+%7C+AI+%7C+Музыка;Python+%7C+Flutter+%7C+Producer.ai" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=6366F1&center=true&vCenter=true&width=500&lines=Разработка+%7C+AI+%7C+Музыка;Python+%7C+Android Studio+%7C+Producer.ai" alt="typing animation" />
 </p>
 
 <p align="center">
