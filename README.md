@@ -1,40 +1,30 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/gratati/gratati.github.io/main/favicon.png" 
-     onerror="this.src='https://img.icons8.com/color/48/000000/circled-code.png'" 
-     width="48" 
-     alt="gratati logo" />
-  Татьяна • gratati
-</h1>
+[<img src="https://raw.githubusercontent.com/gratati/gratati.github.io/main/favicon.png" width="80" alt="gratati logo">](https://gratati.github.io/)
+Татьяна • gratati
+==============================================================================================================
 
-<p align="center">
-  <em>Пишу код, который думает — и музыку, которая чувствует</em><br>
-  🌿 AI-инструменты · 🧠 NLP/ML · 📱 Android · 🎵 Цифровая мистика
-</p>
+Пишу код, который думает — и музыку, которая чувствует🌿 AI-инструменты · 🧠 NLP/ML · 📱 Android · 🎵 Цифровая мистика
 
----
+### 🌐 [gratati.github.io](https://gratati.github.io/) — моё цифровое пространство
 
-### 🌐 [gratati.github.io](https://gratati.github.io) — моё цифровое пространство  
-> *«Инструменты — это продолжение мышления. Делаю ИИ осмысленным, а цифру — поэтичной»*
-
----
+> «Инструменты — это продолжение мышления. Делаю ИИ осмысленным, а цифру — поэтичной»
 
 ### 🛠️ Я создаю **осмысленные ИИ-решения**
 
+|   |   |
+|---|---|
 | Категория | Примеры |
-|-----------|---------|
-| **🤖 NLP / GenAI** | [TextEaseBot](https://t.me/TextEaseBot) — бот-помощник для критического чтения (упрощение, перевод, фактчекинг)<br>[AI конструктор документов](https://aistudio.google.com/apps/drive/1WR-teFQnjFsi54En8GpRjjPux_sUlhAP?showAssistant=true&showPreview=true) — генерация по шаблону *«проблема → решение»* |
+| **🤖 NLP / GenAI** | [TextEaseBot](https://t.me/TextEaseBot) — бот-помощник для критического чтения (упрощение, перевод, фактчекинг) · [AI конструктор документов](https://aistudio.google.com/apps/drive/1WR-teFQnjFsi54En8GpRjjPux_sUlhAP?showAssistant=true&showPreview=true) — генерация по шаблону «проблема → решение» |
 | **🎧 Speech & Audio** | [Slovolov AI транскрибатор](https://huggingface.co/spaces/Gratati/slovolov-app) — авто-расшифровка аудио/видео |
-| **👁️ Computer Vision** | [CV-сегментация](https://github.com/gratati/cv-segmentation-sam-unet) — SAM + U-Net для спортивной аналитики<br>[realtime_object](https://github.com/gratati/realtime_object) — offline-детекция на Android (TFLite) |
+| **👁️ Computer Vision** | [CV-сегментация](https://github.com/gratati/cv-segmentation-sam-unet) — SAM + U-Net для спортивной аналитики · [realtime_object](https://github.com/gratati/realtime_object) — offline-детекция на Android (TFLite) |
 | **📊 Анализ данных** | [Анализ тональности](https://github.com/gratati/sentiment-analyzer) — BERT + кластеризация скрытых паттернов |
 
 📄 Все демо — в [PDF-документах](https://github.com/gratati/gratati.github.io/tree/main/docs)
 
----
-
 ### 🎵 AI-музыка: цифровые ритуалы через [Producer.ai](https://producer.ai/@gratati)
 
+|   |   |   |
+|---|---|---|
 | Трек | Жанр | Смысловое поле |
-|------|------|----------------|
 | **Mystica** | Ritual Ambient · Hang Drums | Медитация без слов |
 | **Mysterious Tide** | Trip-hop · Chillout | Меланхоличный дрейф |
 | **Flight of Life** | Psychedelic Rock | Полёт через страх |
@@ -42,41 +32,26 @@
 | **Shadows and Flame** | Epic Symphonic Rock | Борьба света и тьмы |
 | **Roots in the Sky** | Ethno Fusion (RU) | Земля и небеса в одном дыхании |
 | **Carnival Drift** | Synthwave · Retro-Futurism | Воспоминания из будущего |
-| **Яблоко в руке** | **Art Pop · Trip-Hop · Ethereal Russian Poetry** | 🍎 *«Всё, что нужно — здесь, в руке»* — гимн простоте как чуду |
-| **Code of Desire** | **Industrial Glitch Electro-Pop · Cyber-Mystic** | 💻 *«Глитч-ведьма на границе ночи»* — манифест цифрового самовыражения |
+| **Яблоко в руке** | **Art Pop · Trip-Hop · Ethereal Russian Poetry** | 🍎 «Всё, что нужно — здесь, в руке» — гимн простоте как чуду |
+| **Code of Desire** | **Industrial Glitch Electro-Pop · Cyber-Mystic** | 💻 «Глитч-ведьма на границе ночи» — манифест цифрового самовыражения |
 
-> *«if (desire) { play(); }»* — из трека **Code of Desire**
+> «if (desire) { play(); }» — из трека **Code of Desire**
 
----
+### 📬 Связь
 
-### 📬 Связь  
 Я открыта к коллаборациям в области:
+
 - интеграции ИИ в бизнес-процессы  
 - генеративного искусства и звука  
 - осознанного дизайна человеко-машинного взаимодействия  
-
 - 📩 [Telegram: @mentvork](https://t.me/mentvork)  
 - ✉️ [gratati49@gmail.com](mailto:gratati49@gmail.com)  
-- 🌐 [gratati.github.io](https://gratati.github.io)
+- 🌐 [gratati.github.io](https://gratati.github.io/)
 
----
+![AI-музыка · критическое мышление · осмысленный код](https://camo.githubusercontent.com/85592b53e80cffc85fc1f52b934e4f4682afceb711a90bdae975338a42ae1126/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d3138266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3130423938312663656e7465723d74727565267643656e7465723d747275652677696474683d353530266c696e65733d41492dd0bcd183d0b7d18bd0bad0b02bd0bad0b0d0ba2bd0bfd0bed18dd0b7d0b8d18f3b5465787445617365426f742be280942bd0b8d0bdd181d182d180d183d0bcd0b5d0bdd1822bd0bad180d0b8d182d0b8d187d0b5d181d0bad0bed0b3d0be2bd0bcd18bd188d0bbd0b5d0bdd0b8d18f3bd09ed1822bd0bad0bed0b4d0b02bd0ba2bd180d0b8d182d183d0b0d0bbd183)
+![GitHub stats](https://camo.githubusercontent.com/658678ab94da58c16d6f8c986fb183d8f289eadb1920c5cfb1ab17d5fa842140/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d677261746174692673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e742662675f636f6c6f723d30443131313726626f726465725f636f6c6f723d3145323933422669636f6e5f636f6c6f723d31304239383126746578745f636f6c6f723d433944314439)
+![Top languages](https://camo.githubusercontent.com/e6d5b7733c4f4eb974d5ae9b758d4443194f883b53bd127ef4971d9fa210fdf3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d67726174617469266c61796f75743d636f6d70616374267468656d653d7472616e73706172656e742662675f636f6c6f723d30443131313726626f726465725f636f6c6f723d314532393342266c616e67735f636f756e743d36)
 
-<div align="center">
+[Activity Graph](https://github.com/gratati)
 
- 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=AI-музыка+как+поэзия;TextEaseBot+—+инструмент+критического+мышления;От+кода+к+ритуалу" alt="typing" />
-
-  <br><br>
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=gratati&show_icons=true&theme=transparent&bg_color=0D1117&border_color=1E293B&icon_color=10B981&text_color=C9D1D9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratati&layout=compact&theme=transparent&bg_color=0D1117&border_color=1E293B&langs_count=6" height="150" />
-
-  <br><br>
-
-
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gratati&theme=github-dark&bg_color=0D1117&color=10B981&line=10B981&point=38BDF8)](https://github.com/gratati)
-
-</div>
-
-> © 2025 gratati — *«не просто инженер, а цифровой поэт»* 🌿
+> © 2025 gratati — «не просто инженер, а цифровой поэт» 🌿
