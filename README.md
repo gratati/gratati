@@ -1,64 +1,76 @@
-<h1 align="center">Привет! 👋 Я gratati</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/gratati/gratati.github.io/main/favicon.png" width="48" style="vertical-align: middle; margin-right: 12px;" />
+  Татьяна • gratati
+</h1>
 
 <p align="center">
-  Разработчик • Искусственный интеллект • Музыкальные эксперименты
+  <em>Пишу код, который думает — и музыку, которая чувствует</em><br>
+  🌿 AI-инструменты · 🧠 NLP/ML · 📱 Android · 🎵 Цифровая мистика
 </p>
 
 ---
 
-### 🛠️ Что я создаю
-
-- 🤖 **NLP-боты**: Telegram-боты различного функционала для бизнеса с использованиемм нейросетей
-- 🧠 **Машинное обучение**: BERT, трансформеры, кластеризация, Streamlit
-- 📱 **Мобильные приложения**: Android Studio, TensorFlow Lite, детекция объектов
-- 🖼️ **Компьютерное зрение**: сегментация с SAM и U-Net
-- 🎵 **AI-музыка**: генерация треков через Producer.ai, амбиент, трип-хоп, рок
+### 🌐 [gratati.github.io](https://gratati.github.io) — моё цифровое пространство  
+> *«Инструменты — это продолжение мышления. Делаю ИИ осмысленным, а цифру — поэтичной»*
 
 ---
 
-### 🚀 Мои проекты
+### 🛠️ Я создаю **осмысленные ИИ-решения**
 
-| Проект | Описание | Демо |
-|-------|----------|------|
-| **TextEaseBot** | Telegram-бот для упрощения текстов | [GitHub](https://github.com/gratati/TextEaseBot) / [PDF](https://gratati.github.io/docs/texteasebot.pdf) |
-| **cv-segmentation-sam-unet** | CV-сегментация с SAM и U-Net | [GitHub](https://github.com/gratati/cv-segmentation-sam-unet) / [PDF](https://gratati.github.io/docs/cv_segmentation_sam_unet.pdf) |
-| **sentiment-analyzer** | Анализ тональности на BERT | [GitHub](https://github.com/gratati/sentiment-analyzer) / [PDF](https://gratati.github.io/docs/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf) |
-| **realtime_object** | Детекция объектов на Android | [GitHub](https://github.com/gratati/realtime_object) / [PDF](https://gratati.github.io/docs/object-detection.pdf) |
+| Категория | Примеры |
+|-----------|---------|
+| **🤖 NLP / GenAI** | [TextEaseBot](https://t.me/TextEaseBot) — бот-помощник для критического чтения (упрощение, перевод, фактчекинг)<br>[AI конструктор документов](https://aistudio.google.com/apps/drive/1WR-teFQnjFsi54En8GpRjjPux_sUlhAP) — генерация по шаблону *«проблема → решение»* |
+| **🎧 Speech & Audio** | [Slovolov AI транскрибатор](https://huggingface.co/spaces/Gratati/slovolov-app) — авто-расшифровка аудио/видео |
+| **👁️ Computer Vision** | [CV-сегментация](https://github.com/gratati/cv-segmentation-sam-unet) — SAM + U-Net для спортивной аналитики<br>[realtime_object](https://github.com/gratati/realtime_object) — offline-детекция на Android (TFLite) |
+| **📊 Анализ данных** | [Анализ тональности](https://github.com/gratati/sentiment-analyzer) — BERT + кластеризация скрытых паттернов |
 
----
-
-### 🎵 Музыкальные эксперименты
-
-Я создаю музыку с помощью AI, исследуя границы звука:
-
-- 🌀 **Mystica** — ритуальный амбиент с ASMR и ханг-барабанами
-- 🌊 **Mysterious Tide** — трип-хоп с гавайской стальной гитарой
-- 🚀 **Flight of Life** — психоделический рок о смелости
-- 👑 **Dance Queen** — энергичный урбан-гимн о вечной молодости
-
-🎧 Все треки: [Producer.ai](https://producer.ai/@gratati)
+📄 Все демо — в [PDF-документах](https://github.com/gratati/gratati.github.io/tree/main/docs)
 
 ---
 
-### 📬 Связь
+### 🎵 AI-музыка: цифровые ритуалы через [Producer.ai](https://producer.ai/@gratati)
 
-Хочешь обсудить проект или музыку? Пиши:
+| Трек | Жанр | Смысловое поле |
+|------|------|----------------|
+| **Mystica** | Ritual Ambient · Hang Drums | Медитация без слов |
+| **Mysterious Tide** | Trip-hop · Chillout | Меланхоличный дрейф |
+| **Flight of Life** | Psychedelic Rock | Полёт через страх |
+| **Dance Queen** | Urban Beats · Warm Piano | Городская грация |
+| **Shadows and Flame** | Epic Symphonic Rock | Борьба света и тьмы |
+| **Roots in the Sky** | Ethno Fusion (RU) | Земля и небеса в одном дыхании |
+| **Carnival Drift** | Synthwave · Retro-Futurism | Воспоминания из будущего |
+| **Яблоко в руке** | **Art Pop · Trip-Hop · Ethereal Russian Poetry** | 🍎 *«Всё, что нужно — здесь, в руке»* — гимн простоте как чуду |
+| **Code of Desire** | **Industrial Glitch Electro-Pop · Cyber-Mystic** | 💻 *«Глитч-ведьма на границе ночи»* — манифест цифрового самовыражения |
 
-- 📩 [Telegram](https://t.me/mentvork)
-- ✉️ gratati49@gmail.com
-- 🌐 [Мой сайт](https://gratati.github.io)
+> *«if (desire) { play(); }»* — из трека **Code of Desire**
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=F59E0B&center=true&vCenter=true&width=600&lines=🎧+Музыка+в+коде+%7C+Нейросети+в+ритме;💻+Python+%7C+AI+%7C+Android+Studio;🌼+Digital+Art+%7C+Producer.ai+%7C+gratati" alt="typing animation" />
-</p>
+### 📬 Связь  
+Я открыта к коллаборациям в области:
+- интеграции ИИ в бизнес-процессы  
+- генеративного искусства и звука  
+- осознанного дизайна человеко-машинного взаимодействия  
 
+- 📩 [Telegram: @mentvork](https://t.me/mentvork)  
+- ✉️ [gratati49@gmail.com](mailto:gratati49@gmail.com)  
+- 🌐 [gratati.github.io](https://gratati.github.io)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gratati&show_icons=true&theme=radical&layout=compact" alt="gratati stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratati&layout=compact&theme=radical" alt="top languages" />
-</p>
+---
 
-[![gratati's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=gratati&theme=react)](https://github.com/gratati)
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=🎧+AI-музыка+как+поэзия;🧠+TextEaseBot+—+инструмент+критического+мышления;💻+От+кода+к+ритуалу" alt="typing" />
 
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=gratati&show_icons=true&theme=transparent&bg_color=0D1117&border_color=1E293B&icon_color=10B981&text_color=C9D1D9" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratati&layout=compact&theme=transparent&bg_color=0D1117&border_color=1E293B&langs_count=6" height="150" />
+
+  <br><br>
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gratati&theme=github-dark&bg_color=0D1117&color=10B981&line=10B981&point=38BDF8)](https://github.com/gratati)
+
+</div>
+
+> © 2025 gratati — *«не просто инженер, а цифровой поэт»* 🌿
