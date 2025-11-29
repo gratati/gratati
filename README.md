@@ -59,18 +59,11 @@
 ---
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=🎧+AI-музыка+как+поэзия;🧠+TextEaseBot+—+инструмент+критического+мышления;💻+От+кода+к+ритуалу" alt="typing" />
+
+  <!-- ✅ Исправленная typing-анимация — БЕЗ эмодзи -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=AI-музыка+как+поэзия;TextEaseBot+—+инструмент+критического+мышления;От+кода+к+ритуалу" alt="typing" />
 
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=gratati&show_icons=true&theme=transparent&bg_color=0D1117&border_color=1E293B&icon_color=10B981&text_color=C9D1D9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratati&layout=compact&theme=transparent&bg_color=0D1117&border_color=1E293B&langs_count=6" height="150" />
-
-  <br><br>
-
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gratati&theme=github-dark&bg_color=0D1117&color=10B981&line=10B981&point=38BDF8)](https://github.com/gratati)
-
-</div>
-
-> © 2025 gratati — *«не просто инженер, а цифровой поэт»* 🌿
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratati&layout
